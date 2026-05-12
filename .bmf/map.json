@@ -1,1 +1,8 @@
-{}
+{
+  ".bmf/.config.json": "Configuration file for the BMF project management tool",
+  ".bmf/backlog.md": "List of pending tasks and features to be implemented",
+  ".bmf/completed_backlog.md": "List of completed tasks and finished features",
+  ".bmf/map.json": "JSON map structure for BMF project file or task relationships",
+  ".bmf/prj_recap.md": "Summary and recap of the project details and progress",
+  "README.md": "Project overview, setup instructions, and documentation"
+}
